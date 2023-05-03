@@ -1,0 +1,7 @@
+for( var i=0; i<=10; i++){
+    console.log(i);
+}
+console.log(i);
+console.log("value of i outside loop  "+i)
+
+//il ya quand meme un acces a la variable i en dehors de la boucle
